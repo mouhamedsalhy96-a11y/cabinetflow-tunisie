@@ -1,4 +1,4 @@
-
+import React from "react";
 import { useEffect, useMemo, useState } from "react";
 import { Calendar, CheckCircle2, Clock3, Phone, Users } from "lucide-react";
 import Card from "../components/ui/Card";

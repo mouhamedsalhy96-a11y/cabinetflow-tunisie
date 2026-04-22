@@ -1,3 +1,4 @@
+import React from "react";
 import { AlertTriangle, LogOut } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 import { signOutUser } from "../services/authService";

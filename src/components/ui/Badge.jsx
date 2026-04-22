@@ -1,4 +1,4 @@
-
+import React from "react";
 export default function Badge({ children, color = "slate" }) {
   const styles = {
     green: "bg-emerald-100 text-emerald-700 border-emerald-200",

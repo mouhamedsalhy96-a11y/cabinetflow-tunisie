@@ -1,3 +1,4 @@
+import React from "react";
 import { useEffect, useMemo, useState } from "react";
 import { FileText, PlusCircle, Search, Trash2 } from "lucide-react";
 import Card from "../components/ui/Card";
