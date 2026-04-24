@@ -101,13 +101,4 @@ For portfolio purposes, screenshots and demo data are used (no real patient-iden
 - Use **dummy patient data only**.
 - Do not upload or store real patient data in any public environment.
 
----
 
-## 🛠️ Local development (typical workflow)
-
-> If you are running this as a Node-based web app:
-
-1) Install dependencies
-```bash
-npm install
-``
